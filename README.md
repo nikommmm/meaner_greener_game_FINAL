@@ -2,7 +2,7 @@
 
 This game was prepared by Niko Martin and Reagan Massey for the Honors Fundamentals of Engineering course within OSU's College of Engineering.
 
-To play the game for yourself:
+To play the game for yourself, assuming all necessary Proteus dependency software is installed:
 
 1. Download the entirety of the meaner_greener_game_FINAL repository.
 2. Extract its content into some folder.
